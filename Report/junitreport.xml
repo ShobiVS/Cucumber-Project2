@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="96.784601">
+    <testcase classname="To order the food in Bristo Bites Website" name="The user read “Our Story”" time="96.784601">
+        <system-out><![CDATA[Given To launch the browser and maximize window.............................passed
+When Click the “Our Story” option...........................................passed
+And Check the spelling mistake..............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

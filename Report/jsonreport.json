@@ -1,0 +1,73 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 85466446500,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "To launch the browser and maximize window",
+            "match": {
+              "location": "Bites3.to_launch_the_browser_and_maximize_window()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "line": 44,
+        "name": "The user read “Our Story”",
+        "description": "",
+        "id": "to-order-the-food-in-bristo-bites-website;the-user-read-“our-story”",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 11312225800,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "Click the “Our Story” option",
+            "match": {
+              "location": "Bites6.click_the_Our_Story_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1067600,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "Check the spelling mistake",
+            "match": {
+              "location": "Bites6.check_the_spelling_mistake()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Smoke1"
+          }
+        ]
+      }
+    ],
+    "name": "To order the food in Bristo Bites Website",
+    "description": "",
+    "id": "to-order-the-food-in-bristo-bites-website",
+    "keyword": "Feature",
+    "uri": "src/test/resources/sample.feature",
+    "tags": []
+  }
+]
